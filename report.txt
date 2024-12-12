@@ -1,6 +1,0 @@
-Name                                                Stmts   Miss  Cover   Missing
----------------------------------------------------------------------------------
-Desktop\Test_exam\example_calculating_coverage.py      13      0   100%
-Desktop\Test_exam\test_average.py                      17      1    94%   26
----------------------------------------------------------------------------------
-TOTAL                                                  30      1    97%
